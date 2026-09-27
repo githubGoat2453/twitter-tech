@@ -1,0 +1,5 @@
+playwright
+playwright-stealth
+rich
+python-dotenv
+discord.py
